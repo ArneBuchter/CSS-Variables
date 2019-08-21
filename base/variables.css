@@ -1,0 +1,8 @@
+/* --- Variables --- */
+
+:root{
+    --theme-color: pink;
+    --link-color: #333; 
+    --text-color: #333;
+    --line-height: 2em;
+}

@@ -1,0 +1,14 @@
+.blurbs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 760px;
+    margin: 0 auto;
+    grid-gap: 40px;
+}
+
+.blurb{
+    text-align: center;
+    color: var(--text-color);
+    line-height: var(--line-height);
+    font-size: 0.9em
+}
